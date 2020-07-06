@@ -4,6 +4,5 @@ Python GUI example with Tkinter
 
 
 
-
-![demo](https://github.com/nimadorostkar/Example-GUI-Tkinter/img.jpg)
+![example]https://github.com/nimadorostkar/Example-GUI-Tkinter/img.jpg)
 
